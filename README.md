@@ -9,9 +9,7 @@ Ada juga fitur tambahan yang digunakan yaitu Migrations dan Seeder. Migrations m
 
 ## Instalasi
 
-1.  Clone repositori ini: `git clone [link repositori]`
-2.  Pindah ke direktori proyek: `cd [nama proyek]`
-3.  Instal dependensi: `npm install prisma --save-dev`,`npm install @prisma/client`
+1.  Instal dependensi: `npm install prisma --save-dev`,`npm install @prisma/client`
 
 
 ## Konfigurasi Database
