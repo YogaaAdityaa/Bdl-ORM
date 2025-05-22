@@ -1,4 +1,4 @@
-# Judul Proyek
+# Percobaan ORM
 
 Ini merupakan sebuah project percobaan untuk penggunaan ORM Prisma yang dimana terdapat 2 model, yaitu user dan post
 
